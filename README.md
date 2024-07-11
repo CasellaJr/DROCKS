@@ -1,1 +1,1 @@
-# Decentralized-FROCKS
+# Decentralized FROCKS
