@@ -1,8 +1,7 @@
 <div align="center">
 
 # Decentralized Federated Learning with ROCKET features
-Bruno Casella, Matthias Jakobs, Sebastian Buschjäger, Marco Aldinucci, 
-
+Anonymous submission
 </div>
 
 # Overview
