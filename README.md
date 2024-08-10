@@ -28,7 +28,7 @@ Most Federated Learning (FL) solutions are based on an aggregator-client (i.e., 
 
 # Method
 <p style="text-align: center;">
-  <embed src="results/method.pdf" width="600" height="800" type="application/pdf" />
+  <embed src="results/method.pdf" height="100%" width="100%" type="application/pdf" />
 </p>
 
 ## Usage
