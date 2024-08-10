@@ -40,10 +40,4 @@ The results directory reports the accuracy and F1-score metrics for all the UCR 
 
 
 ## Contributors
-* Bruno Casella <bruno.casella@unito.it>  
-
-* Matthias Jakobs <matthias.jakobs@tu-dortmund.de>
-
-* Sebastian Buschjäger <sebastian.buschjaeger@tu-dortmund.de>
-
-* Marco Aldinucci <marco.aldinucci@unito.it>
+* Anonymous submission
