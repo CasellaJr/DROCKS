@@ -27,7 +27,9 @@ Please cite as:
 Most Federated Learning (FL) solutions are based on an aggregator-client (i.e., master-worker) architecture, which is simple and effective. However, it also exhibits serious robustness and confidentiality issues related to the distinguished role of the master, which is a single point of failure and can observe knowledge extracted from workers. We propose DROCKS, a fully decentralized FL approach for time series classification using ROCKET (RandOm Convolutional KErnel Transform) features. In DROCKS, the global model is trained by sequentially traversing a path across all federation nodes. Each node receives the global model from its predecessor, uses it to compute the local best-performing kernels, and sends the model and the best-performing local kernels to its successor along the path. Results show that DROCKS outperforms state-of-the-art federated approaches on most of the datasets of the UCR archive. Additionally, we demonstrate that DROCKS is less demanding regarding communication and computation than the traditional schema. 
 
 # Method
- <p align = "center"><img src="results/method.pdf" width="600" style = "text-align:center"/></p>
+<p style="text-align: center;">
+  <embed src="results/method.pdf" width="600" height="800" type="application/pdf" />
+</p>
 
 ## Usage
 - Clone this repo.
