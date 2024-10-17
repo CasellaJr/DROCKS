@@ -102,11 +102,9 @@ def main():
                         if client_id == 0:
                             #print("Client", client_id, "seeds", seeds[client_id])
                             K = kernels[client_id]
-                        else:
-                            used_seeds = new_seeds
-                            #print("Client", client_id, "seeds", used_seeds)
-                            K = [RocketKernel(seed, ts_length) for seed in used_seeds]
                     else:
+                        used_seeds = new_seeds
+                        print("Client", client_id, "seeds", used_seeds)
                         K = [RocketKernel(seed, ts_length) for seed in used_seeds]
 
                     # Transform data
